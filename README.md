@@ -1,4 +1,4 @@
-# 251117-MuleclassReference
+# MSA001 - 251117 Reference
 
 Shared information document for students in Mulesoft MSA001 workshop
 
